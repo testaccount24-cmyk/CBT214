@@ -1,0 +1,21 @@
+2025-04-04 06:10:04.301307 - Received CBT.V508.FILE214.PDS from FILE214.XMI 
+2025-04-04 06:10:04.302444 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:10:04.302594 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/$$$DOC
+2025-04-04 06:10:04.302730 - Found $$MORE.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/$$MORE
+2025-04-04 06:10:04.302864 - Found @FILE214.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/@FILE214
+2025-04-04 06:10:04.303066 - Found MVS@ACB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@ACB
+2025-04-04 06:10:04.303233 - Found MVS@ACEE.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@ACEE
+2025-04-04 06:10:04.303368 - Found MVS@ASCB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@ASCB
+2025-04-04 06:10:04.303487 - Found MVS@ASVT.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@ASVT
+2025-04-04 06:10:04.303633 - Found MVS@ASXB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@ASXB
+2025-04-04 06:10:04.303759 - Found MVS@CDE.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@CDE
+2025-04-04 06:10:04.303891 - Found MVS@CVT.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@CVT
+2025-04-04 06:10:04.304022 - Found MVS@DCB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@DCB
+2025-04-04 06:10:04.304143 - Found MVS@DEB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@DEB
+2025-04-04 06:10:04.304264 - Found MVS@JCL.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@JCL
+2025-04-04 06:10:04.304402 - Found MVS@JFCB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@JFCB
+2025-04-04 06:10:04.304563 - Found MVS@PDS.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@PDS
+2025-04-04 06:10:04.304687 - Found MVS@RB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@RB
+2025-04-04 06:10:04.304817 - Found MVS@TCB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@TCB
+2025-04-04 06:10:04.304978 - Found MVS@TIOT.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@TIOT
+2025-04-04 06:10:04.305096 - Found MVS@UCB.txt (text/plain) in CBT.V508.FILE214.PDS, moved to PDS/MVS@UCB
